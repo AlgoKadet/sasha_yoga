@@ -1,0 +1,112 @@
+body {
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding: 13px;
+}
+
+
+img {
+    width: 350px;
+    height: 190px;
+    
+}
+
+.name{
+    background-color: rgb(231, 205, 255);
+    display: flex;
+    justify-content: space-around;
+    height: 230px;
+    padding-top: 20px;
+}
+
+
+table {
+    border: solid 2px rgb(231, 205, 255);
+    border-radius: 7%;
+    text-align: center;
+    font-size: 23px;
+    padding: 10px;
+}
+td {
+    border: solid 2px rgb(220, 185, 255);
+}
+
+.tu {
+    background-color: #efdeff;
+}
+
+.oi {
+    padding-top: 50px;
+    text-align: center;
+    
+}
+
+
+header {
+    background-color:rgb(231, 205, 255);
+}
+
+nav{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.rtu {
+    display: flex;
+    justify-content: center;
+}
+
+.lkj {
+    text-align: center;
+}
+
+
+
+
+.relax {
+    border: solid 2px rgb(220, 185, 255);
+}
+
+.inst{
+    width: 50%;
+}
+
+.form{
+    width: 50%;
+}
+
+.div_art{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+article img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+
+.qw {
+    background-color: rgb(231, 205, 255);
+    padding: 5px;
+    border-radius: 5px;
+    color:rgb(100, 6, 162);
+}
+
+
+section {
+    display: flex;
+    justify-content: space-around;
+}
+
+.qe {
+    color: rgb(212, 212, 212);
+    border: solid 1px rgb(222, 222, 222);
+    padding: 5px;
+}
